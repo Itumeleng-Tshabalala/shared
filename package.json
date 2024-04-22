@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "types": "./src/index.d.ts",
   "description": "Helpers library for Jobber app",
@@ -19,7 +19,7 @@
   "author": "Itumeleng Tshabalala",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Itumeleng-Tshabalala/shared.git"
+    "url": "git+https://github.com/itumeleng-tshabalalashared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
